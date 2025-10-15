@@ -1,0 +1,11 @@
+# Core framework for building AI applications
+langchain
+langchain-community
+langchain-huggingface
+
+# For creating the text embeddings (the "magic GPS")
+sentence-transformers
+torch
+
+# The vector database for storing our AI's memory
+chromadb
